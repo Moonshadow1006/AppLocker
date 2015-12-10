@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppLocker</string>
+
+
+
+    <string name="app_locker">AppLocker</string>
+    <string name="app_info_loading">AppInfo Loading……</string>
+
+
+    <string name="ok">ok</string>
+
+</resources>
